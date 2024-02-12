@@ -1,5 +1,4 @@
-The GCViT is referred from
-
+The GCViT is referred from:
 
 @inproceedings{hatamizadeh2023global,
   title={Global context vision transformers},
